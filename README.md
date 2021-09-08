@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a Data Center
 - 🌱 I’m currently developing my way to Data Science
 - 🤔 I’m looking for help with Machine Learn
-- 💬 I'm currently studying Python and R
+- 💬 I'm currently studying Python, R and Java
 
 <div>
   <a href="https://github.com/victorguidi">
