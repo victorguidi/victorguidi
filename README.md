@@ -1,9 +1,8 @@
 ### Hey there, I am Victor Guidi 👋
 
 - 🔭 I’m currently working on a Data Center
-- 🌱 I’m currently developing my way to Data Science
-- 🤔 I’m looking for help with Machine Learn
-- 💬 I'm currently studying Python, R and Java
+- 🤔 I see the future in Data and Blockchain
+- 💬 Python, JavaSCript, C++, Solidity...
 
 <div>
   <a href="https://github.com/victorguidi">
