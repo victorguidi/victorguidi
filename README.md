@@ -1,7 +1,7 @@
 ### Hey there, I am Victor Guidi 👋
 
 - 🔭 I’m currently working on a Data Center
-- 🤔 I see the future in Data and Blockchain
+- 🤔 I see the future in Data Science and Blockchain
 - 💬 Python, JavaSCript, C++, Solidity...
 
 <div>
