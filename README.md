@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a Data Center
 - 🤔 I see the future in Data Science and Blockchain
-- 💬 Python, JavaSCript, C++, Solidity...
+- 💬 Python, JavaScript, C++,...
 
 <div>
   <a href="https://github.com/victorguidi">
