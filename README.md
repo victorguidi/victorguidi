@@ -1,6 +1,6 @@
 ### Hey there, I am Victor Guidi 👋
 
-- 🔭 I’m currently working on a Data Center
+- 🔭 Full Stack developer at Scala Data Centers
 - 🤔 I see the future in Data Science and Blockchain
 - 💬 Python, JavaScript, C++,...
 
