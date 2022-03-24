@@ -2,7 +2,7 @@
 
 - 🔭 Full Stack developer at Scala Data Centers
 - 🤔 I see the future in Data Science and Blockchain
-- 💬 Python, JavaScript, C++,...
+- 💬 Python, JavaScript, Go,...
 
 <div>
   <a href="https://github.com/victorguidi">
