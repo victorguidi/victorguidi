@@ -1,8 +1,7 @@
 ### Hey there, I am Victor Guidi 👋
 
-- 🔭 Full Stack developer at Scala Data Centers
-- 🤔 I see the future in Data Science and Blockchain
-- 💬 TypeScript, Go, Python, C++...
+- 🔭 Backend/Devops developer at Scala Data Centers
+- 💬 TypeScript, Go, Python, C++, Docker
 
 <div>
   <a href="https://github.com/victorguidi">
