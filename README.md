@@ -1,6 +1,6 @@
 # Victor Guidi 👋
 
-## 🔭 Full-stack Developer
+## 🔭 I am a Full-stack Developer
 
 <div>
   <a href="https://github.com/victorguidi">
@@ -9,7 +9,7 @@
 </div>
 
 
-## Who am I?
+## About me
 
 I'm a full-stack developer curious by nature and who discovered that through development I can create and invent new things. Seeking every day to learn something new, and little by little, I am building my own version of a better world or that hopefully will help us to get there.
 
