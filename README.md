@@ -2,7 +2,17 @@
 
 ## 🔭 Full-stack Developer
 
+<div>
+  <a href="https://github.com/victorguidi">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorguidi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguidi&layout=compact&langs_count=10&theme=dracula"/>
+</div>
+
+#
+
 I'm a full-stack developer curious by nature and who discovered that through development I can create and invent new things. Seeking every day to learn something new, and little by little, I am building my own version of a better world or that hopefully will help us to get there.
+
+### Socials - Connect with me!!
 
 <p align="left">
    <a href="https://www.linkedin.com/in/victor-guidi/">
@@ -30,8 +40,3 @@ I'm a full-stack developer curious by nature and who discovered that through dev
 
 #
 
-<div>
-  <a href="https://github.com/victorguidi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorguidi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguidi&layout=compact&langs_count=10&theme=dracula"/>
-</div>
