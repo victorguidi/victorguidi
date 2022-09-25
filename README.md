@@ -1,12 +1,12 @@
 # Victor Guidi 👋
 
-- 🔭 Full-stack Developer
+## 🔭 Full-stack Developer
 
 I'm a full-stack developer curious by nature and who discovered that through development I can create and invent new things. Seeking every day to learn something new, and little by little, I am building my own version of a better world or that hopefully will help us to get there.
 
 <p align="left">
       <a href="https://www.linkedin.com/in/victor-guidi/">
-         <img alt="linkedin" title="Connect with me" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
+         <img alt="linkedin" title="Connect with me" src="https://custom-icon-badges.demolab.com?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
 </p>
 
 ---
