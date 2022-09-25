@@ -8,7 +8,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguidi&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
----
 
 ## Who am I?
 
