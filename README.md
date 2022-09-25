@@ -10,15 +10,10 @@
 
 ---
   
+### 
+
 I'm a full-stack developer curious by nature and who discovered that through development I can create and invent new things. Seeking every day to learn something new, and little by little, I am building my own version of a better world or that hopefully will help us to get there.
 
-### Socials - Connect with me!!
-
-<p align="left">
-   <a href="https://www.linkedin.com/in/victor-guidi/">
-      <img width="32px" alt="linkedin" title="Connect with me" src="https://i.imgur.com/2f46ZLx.png"/>
-   </a> 
-</p>
 
 ### 🧰 Languages and Tools
 
@@ -35,6 +30,14 @@ I'm a full-stack developer curious by nature and who discovered that through dev
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+#
+
+<p align="left">
+   <a href="https://www.linkedin.com/in/victor-guidi/">
+      <img width="32px" alt="linkedin" title="Connect with me" src="https://i.imgur.com/2f46ZLx.png"/>
+   </a> 
+</p>
 
 ---
 
