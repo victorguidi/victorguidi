@@ -10,11 +10,12 @@
 
 ---
   
-### 
+  <p></p>
 
 I'm a full-stack developer curious by nature and who discovered that through development I can create and invent new things. Seeking every day to learn something new, and little by little, I am building my own version of a better world or that hopefully will help us to get there.
 
-
+  <p></p>
+  
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
