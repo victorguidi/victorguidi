@@ -33,5 +33,5 @@ I'm a full-stack developer curious by nature and who discovered that through dev
 <div>
   <a href="https://github.com/victorguidi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorguidi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguidi&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="150em" width="5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguidi&layout=compact&langs_count=10&theme=dracula"/>
 </div>
