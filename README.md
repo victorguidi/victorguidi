@@ -32,8 +32,19 @@ I'm a full-stack developer curious by nature and who discovered that through dev
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 <br />
-  
-  
+
+### Techlogy experience
+
+| **Menu:**            | **Technologies**                                                                                            |
+|----------------------|-------------------------------------------------------------------------------------------------------------|
+| **Languages:**       | _Golang, TypeScript/JavaScript, C, Python_                                                                           |
+| **Frameworks:**      | _Nest.js, React, Svelte.js, Flask_                                                                        |
+| **Databases:**       | _PostgreSQL, MongoDB, MySQL, SQLite, Redis_                                                                |
+| **Database ORM:**    | _TypeORM, Mongoose, Prisma_                                                                                 |
+| **DevOps & CI/CD:**  | _Docker, Git*, Azure, Nginx, Ansible, Trello, Clickup_                                                                |
+| **Testing:**         | _Jest_                                                                                      |
+| **Architectures:**   | _Monolithic, Client-Server, Microservices_                                                 |
+| **Familiar with:**   | _C++, Rust, Next.js, Figma, Java, TailwindCSS, Playwright, Django_ |  
   
 #
   
