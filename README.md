@@ -55,6 +55,8 @@ I'm a full-stack developer curious by nature and who discovered that through dev
       <img width="32px" alt="linkedin" title="Connect with me" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
    </a> 
 </p>
+  
+<a href="https://app.daily.dev/victorguidi"><img src="https://api.daily.dev/devcards/3175e74e0eca41ee834e5131030d8a56.png?r=i0f" width="400" alt="Vcitor Guidi's Dev Card"/></a>
 
 
 
