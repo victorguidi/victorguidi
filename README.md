@@ -13,8 +13,6 @@
 
 I'm a full-stack developer curious by nature and who discovered that through development I can create and invent new things. Seeking every day to learn something new.
 
-<a href="https://app.daily.dev/victorguidi"><img src="https://api.daily.dev/devcards/3175e74e0eca41ee834e5131030d8a56.png?r=i0f" width="400" alt="Vcitor Guidi's Dev Card"/></a>
-
 ### 🧰 Languages and Tools
   
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -57,5 +55,7 @@ I'm a full-stack developer curious by nature and who discovered that through dev
    </a> 
 </p>
 
+#
 
+<a href="https://app.daily.dev/victorguidi"><img src="https://api.daily.dev/devcards/3175e74e0eca41ee834e5131030d8a56.png?r=i0f" width="400" alt="Vcitor Guidi's Dev Card"/></a>
 
