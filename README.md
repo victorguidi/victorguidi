@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguidi&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
-##
+## About me
 
 I'm a full-stack developer. I enjoy building stuff from scratch and finding out how things works. I don't really care about languages, but I do care about my OS, I use Arch btw. And I love to spend time outside too! 
 
