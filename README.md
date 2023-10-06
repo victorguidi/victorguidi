@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm a full-stack developer. I enjoy building stuff from scratch and finding out how things works. I don't really care about languages, but I do care about my OS, I use Arch btw. And I love to spend time outside too! 
+I'm a full-stack developer. I enjoy building stuff from scratch and finding out how things work. I don't really care about languages, but I do care about my OS, I use Arch btw. And I love to spend time outside too! 
 
 <p align="left">
    <a href="https://www.linkedin.com/in/victor-guidi/">
